@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Rock Paper Scissors.
 import random
 
 def get_player_choice():
