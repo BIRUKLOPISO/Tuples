@@ -22,4 +22,3 @@ def play_game(word):
         print("sorry, you run out of attempts. The word was:", word)
 selected_word = select_word()
 play_game(selected_word)
-
